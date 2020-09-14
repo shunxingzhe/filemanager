@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_paste.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_paste.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_favourite.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_select_all.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_select_all.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_rename.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_rename.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cut.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_home_file.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\icon_home_file.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_home_folder.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\icon_home_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_copy.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_favourite_not.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_favourite_not.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_other_apps.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_other_apps.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_feedback.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_about.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_create_folder.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_create_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_home_shortcut.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\icon_home_shortcut.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_navigate_up.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_navigate_up.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_refresh.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

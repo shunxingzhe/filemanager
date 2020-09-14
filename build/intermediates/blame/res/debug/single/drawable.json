@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selected_pressed.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\list_item_selected_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\card_selected_clicked.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\card_selected_clicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_item_selected.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\selector_list_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\card_selected.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\card_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\card.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_item.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_card_selected.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\selector_card_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_card.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\selector_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\fast_scroll_handle.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\fast_scroll_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\filemanager-master\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selected.xml",
+        "source": "C:\\Users\\HP\\Desktop\\filemanager-master\\res\\drawable\\list_item_selected.xml"
+    }
+]
