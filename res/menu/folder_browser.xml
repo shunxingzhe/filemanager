@@ -35,7 +35,15 @@
         android:showAsAction="ifRoom"
         android:title="@string/add_favourite"
         android:visible="false"/>
-    
+
+    <item
+        android:id="@+id/menu_GotoNAS"
+        android:icon="@drawable/ic_goto_nas"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="@string/up"
+        android:visible="true"/>
+
     <item
         android:id="@+id/menu_navigate_up"
         android:icon="@drawable/ic_navigate_up"

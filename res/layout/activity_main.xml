@@ -34,7 +34,7 @@
         tools:context=".FolderActivity" />
 
     <include layout="@layout/layout_nav_drawer" />
-    
+
     <include layout="@layout/layout_clipboard_drawer" />
 
 </android.support.v4.widget.DrawerLayout>

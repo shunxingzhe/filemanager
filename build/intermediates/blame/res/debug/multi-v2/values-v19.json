@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\SYD8801\\tool\\filemanager\\filemanager\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "F:\\SYD8801\\tool\\filemanager\\filemanager\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1141",
+                        "endLines": "26",
+                        "endColumns": "12",
+                        "endOffsets": "1408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "318"
+                    }
+                }
+            ]
+        }
+    ]
+}

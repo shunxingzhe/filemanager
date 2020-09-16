@@ -3,48 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Android\.android\build-cache\0a6701d0009afd74835038d7f0072d205b8bfd7b\output\jars\libs\internal_impl-21.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
-        <dex dex="C:\Users\HP\Desktop\filemanager-master\build\intermediates\pre-dexed\debug\internal_impl-21.0.0_8a13e4b7a1159878e4521adef66a2c5e6dad32f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\HP\Desktop\filemanager-master\libs\SystemBarTint.jar"
+        jar="F:\SYD8801\tool\filemanager\filemanager\libs\SystemBarTint.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="77541ad48d3d6ed98a96dd27f8f03b5340542612">
-        <dex dex="C:\Users\HP\Desktop\filemanager-master\build\intermediates\pre-dexed\debug\SystemBarTint_b0fb79e12a8f92a33743d1ab87f6a6d29440b2f2.jar" />
+        <dex dex="F:\SYD8801\tool\filemanager\filemanager\build\intermediates\pre-dexed\debug\SystemBarTint_c6b0f6d3af6ca56da347aca7292d040347fca193.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Android\.android\build-cache\0a6701d0009afd74835038d7f0072d205b8bfd7b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
-        <dex dex="C:\Users\HP\Desktop\filemanager-master\build\intermediates\pre-dexed\debug\classes_04178f614540b656618782c8ca1ed90a5ca18a72.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\HP\Desktop\filemanager-master\libs\msqlite.jar"
+        jar="F:\SYD8801\tool\filemanager\filemanager\libs\msqlite.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d37a38ef10dbf2e43140b97ebb1c0a0914fe1bdc">
-        <dex dex="C:\Users\HP\Desktop\filemanager-master\build\intermediates\pre-dexed\debug\msqlite_f39cf18b4c9ae2e9b3ad83f3afa32af30d23c70e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Computer\android-studio\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
-        <dex dex="C:\Users\HP\Desktop\filemanager-master\build\intermediates\pre-dexed\debug\support-annotations-21.0.0_c0b1901e12b2c935559b58ea27337e08f0290a46.jar" />
+        <dex dex="F:\SYD8801\tool\filemanager\filemanager\build\intermediates\pre-dexed\debug\msqlite_0b8cbd300abbdbe389d21f808714265cd989a37a.jar" />
     </item>
 
 </items>

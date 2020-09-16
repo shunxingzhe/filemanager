@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\HP\Desktop\filemanager-master\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\HP\Desktop\filemanager-master\build-types\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\SYD8801\tool\filemanager\filemanager\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\SYD8801\tool\filemanager\filemanager\build-types\debug\jniLibs"/></dataSet></merger>

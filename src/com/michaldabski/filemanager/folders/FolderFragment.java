@@ -382,6 +382,14 @@ public class FolderFragment extends Fragment implements OnItemClickListener, OnS
 					
 				}
 				return true;
+
+			case R.id.menu_GotoNAS:
+//				Intent intent = new Intent(getApplicationContext(), Test_Active.class);
+//				intent.putExtra("DEVICE_NAME",deviceName_list.get(position));
+//				intent.putExtra("DEVICE_MAC", deviceMac_list.get(position));
+//				startActivity(intent);
+				Log.i("Test_Info", "Select menu_GotoNAS");
+				return true;
 				
 			case R.id.menu_favourite:				
 				try
